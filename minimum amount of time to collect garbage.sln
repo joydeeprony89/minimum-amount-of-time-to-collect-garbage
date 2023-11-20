@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minimum amount of time to collect garbage", "minimum amount of time to collect garbage\minimum amount of time to collect garbage.csproj", "{DAEF4739-020F-4CF9-93BC-03F55067B523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEF4739-020F-4CF9-93BC-03F55067B523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEF4739-020F-4CF9-93BC-03F55067B523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEF4739-020F-4CF9-93BC-03F55067B523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEF4739-020F-4CF9-93BC-03F55067B523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9C28E9-3996-43C8-9F6A-F204C088D4DB}
+	EndGlobalSection
+EndGlobal
